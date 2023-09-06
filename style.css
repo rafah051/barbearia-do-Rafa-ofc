@@ -115,3 +115,14 @@ form label, form p {
 .checkbox {
 	margin: 20px;
 }
+
+p {
+	color: red;
+}
+form p {
+	color: blue;
+}
+
+p.teste {
+	color: orange
+}
